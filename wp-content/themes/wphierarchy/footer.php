@@ -16,11 +16,11 @@
 
 <?php wp_footer(); ?>
 
-<script>
-    // var docConsole = $("#docConsole");
-    // docConsole.append("<h4><em>I love you, baby!</em></h4>");
-
-    $('.wp-image-1024').css('margin-top', '1rem');
-</script>
+<!--<script>-->
+<!--    var docConsole = $("#docConsole");-->
+<!--    docConsole.append("<h4><em>I love you, baby!</em></h4>");-->
+<!---->
+<!--    $('.wp-image-1024').css('margin-top', '1rem');-->
+<!--</script>-->
 </body>
 </html>

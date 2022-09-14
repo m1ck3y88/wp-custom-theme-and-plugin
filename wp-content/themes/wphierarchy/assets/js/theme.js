@@ -9,7 +9,7 @@
             $(this).css({
 
                 position: "absolute",
-                top: "65rem",
+                top: "65.5rem",
                 right: "1rem"
 
             });
@@ -17,5 +17,7 @@
         }
 
     });
+
+    $(".wp-image-1024").css("margin-top", "1rem");
 
 })(jQuery);
