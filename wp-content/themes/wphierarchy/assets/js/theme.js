@@ -1,5 +1,7 @@
 (function($) {
 
+    console.log("Hello, from theme.js!");
+
     var paragraphs = $("p");
 
     paragraphs.each(function() {
